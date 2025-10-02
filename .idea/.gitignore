@@ -1,0 +1,25 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# User-specific IDE configuration
+/modules.xml
+/misc.xml
+/vcs.xml
+/tasks.xml
+/uiDesigner.xml
+/inspectionProfiles/
+/dictionaries/
+/libraries/
+
+# Generated module files
+*.iml
+
+# GitHub Copilot plugin artifacts
+/copilot.data.migration.*
+/copilot*.xml
