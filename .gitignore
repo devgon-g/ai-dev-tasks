@@ -1,0 +1,23 @@
+﻿# IntelliJ IDEA project files
+.idea/shelf/
+.idea/workspace.xml
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/tasks.xml
+.idea/uiDesigner.xml
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/libraries/
+
+# IntelliJ module descriptors
+.idea/*.iml
+.idea/modules/*.iml
+*.iml
+
+# GitHub Copilot plugin artifacts
+.idea/copilot.data.migration.*
+.idea/copilot*.xml
